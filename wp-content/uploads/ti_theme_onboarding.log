@@ -1,0 +1,17 @@
+[16/Jun/2021:06:47:37] (I): WordPress Instance Info:
+[16/Jun/2021:06:47:37] (I): Home URL : http://localhost/cv
+[16/Jun/2021:06:47:37] (I): Site URL : http://localhost/cv
+[16/Jun/2021:06:47:37] (I): WordPress Version : 5.7.2
+[16/Jun/2021:06:47:37] (I): Onboarding Version : 1.1.13
+[16/Jun/2021:06:47:37] (I): Multisite : No
+[16/Jun/2021:06:47:37] (I): Server Info : Apache/2.4.46 (Win64) OpenSSL/1.1.1j PHP/8.0.3
+[16/Jun/2021:06:47:37] (I): PHP Version : 8.0.3
+[16/Jun/2021:06:47:37] (I): HTTPS : No
+[16/Jun/2021:06:47:37] (I): PHP Max Execution Time : 120
+[16/Jun/2021:06:47:37] (I): PHP Max Input Vars : 1000
+[16/Jun/2021:06:47:37] (I): Max Upload Size : 41943040
+[16/Jun/2021:06:47:37] (I): Plugins:
+[16/Jun/2021:06:47:37] (I): [PLUGIN] Elementor : v3.2.4 (Elementor.com)
+[16/Jun/2021:06:47:37] (I): [PLUGIN] SiteOrigin CSS : v1.3.0 (SiteOrigin)
+[16/Jun/2021:06:47:37] (I): [PLUGIN] Templates Patterns Collection : v1.1.13 (ThemeIsle)
+[16/Jun/2021:06:47:37] (I): [PLUGIN] Orbit Fox Companion : v2.10.6 (Themeisle)

@@ -1,0 +1,19 @@
+.wp-block-cover.alignright.has-background-dim {
+  border-width: 2px;
+  border-style: solid;
+  border-color: #000000;
+  margin-left: 40px;
+}
+
+.wp-block-separator.has-text-color.has-background.has-black-background-color.has-black-color.is-style-wide {
+  margin-top: 2%;
+  margin-bottom: 4%;
+}
+
+.has-text-align-center.has-large-font-size {
+  visibility: hidden;
+}
+
+.entry-content p {
+  text-align: justify;
+}
