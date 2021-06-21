@@ -1,2 +1,2 @@
 # CV
-Moje CV w Wordpressie [WiP]
+Moje CV wykonane w Wordpressie [work in progress]
